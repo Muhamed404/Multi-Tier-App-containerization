@@ -100,8 +100,3 @@ Or access specific services:
 - **Memcached:** accessible on port 11211
 
 
-## 🤝 Author
-
-**Mohamed Khalifa**  
-IT Specialist | DevOps Enthusiast  
-Feel free to connect or fork the project 🌟
