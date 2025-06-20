@@ -79,7 +79,7 @@ http://localhost:80
 
 Or access specific services:
 - **Tomcat:** http://localhost:8080
-- **RabbitMQ UI:** http://localhost:15672 (default user/pass: guest/guest)
+- **RabbitMQ UI:** http://localhost:15672 (default guest/guest)
 - **MySQL:** accessible on port 3306
 - **Memcached:** accessible on port 11211
 
