@@ -45,22 +45,6 @@ The application is a multi-tier Java web app, built and run using Docker contain
 
 ---
 
-## 📁 Project Structure
-
-```
-vprofile-containerization/
-│
-├── Dockerfile                     # Multi-stage Dockerfile for app
-├── docker-compose.yml             # Orchestration of all services
-├── db/
-│   └── db_backup.sql              # MySQL database initialization script
-├── web/
-│   └── nginx.conf                 # Nginx configuration file
-└── vprofile-project/              # Application source code
-```
-
----
-
 ##  How to Run
 
 ### 1. Clone the Repository
