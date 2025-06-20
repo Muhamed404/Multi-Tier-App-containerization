@@ -73,7 +73,7 @@ cd Multi-Tier-App-containerization
 ### 2. Build and Start Containers
 
 ```bash
-docker compose up --build
+docker compose up -d
 ```
 
 > This command will:
